@@ -31,3 +31,8 @@ ___
 + The control photo that is used in the tests is capture5.jpg from face_capture. It could be any photo, but this seemed most convenient.
 
 ___
+
+## What I Learned:
++ Image manipulation using Pillow and Numpy.
++ The basic concepts behind facial recognition.
++ the Face-recognition package makes using facial recognition software incredibly easy.
